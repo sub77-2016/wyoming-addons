@@ -1,9 +1,9 @@
 {
   "github_beta": "true",
   "last_update": "10-06-2023",
-  "repository": "alexbelgium/hassio-addons",
-  "slug": "emby",
+  "repository": "sub77-2016/wyoming-addons",
+  "slug": "openwakeword",
   "source": "github",
-  "upstream_repo": "linuxserver/docker-emby",
+  "upstream_repo": "rhasspy/wyoming-addons",
   "upstream_version": "4.8.0.39"
 }
